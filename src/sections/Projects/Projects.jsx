@@ -32,7 +32,7 @@ function Projects() {
         <ProjectCard
           src={news}
           link="https://github.com/srijosh/News-Category-Classifier-Web-Scraping-and-LLM-Fine-Tuning"
-          h3="News Classifier"
+          h3="News Category Classifier"
         />
         <ProjectCard
           src={naruto}
