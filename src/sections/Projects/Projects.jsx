@@ -28,7 +28,7 @@ function Projects() {
         <ProjectCard
           src={roam}
           link="https://github.com/srijosh/RoamAI-Multi-Agent-Travel-Planner-with-LangGraph.git"
-          h3="RoamAI Multi-Agent Travel Planner"
+          h3="RoamAI Travel Planner"
         />
       </div>
     </section>
